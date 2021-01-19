@@ -4,4 +4,4 @@ time.sleep(10) # This shows a simple use of the module we imported earlier, 'tim
 print("Hi 2") # After the time is over, the user will be met with "Hi", then the window will close immediately after! The window closes because the program is done running
 # ^^^ We could make this 'input("Hi 2")' if we wanted the window to not instantly close after completion, this will make the user have to click the 'x' or press enter to close the program, because the function 'input' is waiting for an input followed with enter. 
 
-# !! Side Note !! - Notice that barely any syntax is used. Syntax is basically the way coding is placed grammar wise. Example: 
+# !! Side Note !! - Notice that barely any syntax is used. Syntax is basically the way coding is placed grammar wise. Example: https://github.com/dev-nolant/Python-Tutorials/blob/main/Side%20notes/Syntax.py
