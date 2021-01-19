@@ -2,7 +2,10 @@
 The tutorials source codes for [my youtube](https://www.youtube.com/channel/UCRblZC569m8Ovorxo8cVEFA) series
 ## PYTHON INSTALL
 1. Go to this [website](https://www.python.org/downloads/)
-2. Click this button ![alt text](https://i.ibb.co/Z8RjK48/image-2021-01-18-013631.png)
+2. Click this button 
+
+![alt text](https://i.ibb.co/Z8RjK48/image-2021-01-18-013631.png)
+
 3. Open the file
 4. Click "install now" and follow instructions
 ### You got this - Keep pushing to be better and you'll always surpass your previous expectations
