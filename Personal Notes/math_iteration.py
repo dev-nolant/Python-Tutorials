@@ -13,7 +13,7 @@ try:
                     if int(user_answer) == (numA[FOOA]+numB[FOOA]):
                         input("Great job! - press enter to continue")
                     else:
-                        input("Awww, wrong answer - the correct answer was "+str(FOOA+numB[0]))
+                        input("Awww, wrong answer - the correct answer was "+str(numA[FOOA]+numB[FOOA]))
                         main()
             if choice == 'multiply':
                     for FOOA in range(len):
@@ -22,7 +22,7 @@ try:
                         if int(user_answer) == (numA[FOOA]*numB[FOOA]):
                             input("Great job! - press enter to continue")
                         else:
-                            input("Awww, wrong answer - the correct answer was "+str(FOOA*numB[0]))
+                            input("Awww, wrong answer - the correct answer was "+str(numA[FOOA]*numB[FOOA]))
                             main()
         else:
             input("please try it in lowercase! - press enter")
